@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Abd Elaty
 
-<!--
-**MohamedAbdElaty7/MohamedAbdElaty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 SOC Analyst in Progress
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Networking, Linux, Cybersecurity basics
+- 🎯 Goal: Become SOC Analyst
+- 📫 Email: your@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Networking
+- Linux
+- Python (basic)
+- Security fundamentals
+
+## 🚀 Projects (Coming Soon)
+- Log Analyzer
+- Port Scanner
+- Brute Force Detector
