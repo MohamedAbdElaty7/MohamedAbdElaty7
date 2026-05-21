@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning: Networking, Linux, Cybersecurity basics
 - 🎯 Goal: Become SOC Analyst
-📫 Email: [mohamedabdelaty296@gmail.com](mailto:mohamedabdelaty296@gmail.com)
+-📫 Email: [mohamedabdelaty296@gmail.com](mailto:mohamedabdelaty296@gmail.com)
 ## 🛠️ Skills
 - Networking
 - Linux
